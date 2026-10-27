@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="SPOOFER_BS.vcxproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <File Path="build.bat" />
+    <File Path="python\spoofer_reference.py" />
+  </Folder>
+</Solution>

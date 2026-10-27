@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\anony\\Desktop\\SPOOFER BS\\obj\\Debug\\main.obj",
+            "outputs": [
+                "C:\\Users\\anony\\Desktop\\SPOOFER BS\\obj\\Debug\\main.cpp.obj.dt.module.json",
+                "C:\\Users\\anony\\Desktop\\SPOOFER BS\\obj\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+﻿  identity.cpp
+  spoofer.cpp
+  cleaner.cpp
+  main.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  SPOOFER_BS.vcxproj -> C:\Users\anony\Desktop\SPOOFER BS\bin\SPOOFER_BS.exe

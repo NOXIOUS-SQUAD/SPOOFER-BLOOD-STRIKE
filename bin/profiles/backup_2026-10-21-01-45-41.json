@@ -1,0 +1,17 @@
+{
+ "profile_name": "backup_original",
+ "created_utc": "2026-10-21 01:45:41",
+ "is_backup": true,
+ "machine_guid": "e94b9446-b113-419a-a49a-764226ed5c4b",
+ "install_date": "1790484872",
+ "product_id": "00325-81096-01587-AAOEM",
+ "hw_profile_guid": "{78114b39-ba37-11f1-aecc-806e6f6e6963}",
+ "network_address": "0A:00:27:00:00:09",
+ "adapter_index": "9",
+ "volume_serial": "A0FC996F",
+ "orig_machine_guid": "e94b9446-b113-419a-a49a-764226ed5c4b",
+ "orig_install_date": "1790484872",
+ "orig_product_id": "00325-81096-01587-AAOEM",
+ "orig_hw_profile_guid": "{78114b39-ba37-11f1-aecc-806e6f6e6963}",
+ "orig_network_address": "0A:00:27:00:00:09"
+}
